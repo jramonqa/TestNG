@@ -26,6 +26,7 @@ public class day3 {
 	public void Bsuite (String urlname)
 	{
 		System.out.println("I am no 1");
+		System.out.println("GitHub");
 		System.out.println(urlname);
 	}
 	
